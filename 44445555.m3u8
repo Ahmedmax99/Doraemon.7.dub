@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:10.0,
+https://archive.org/download/screenrecorder-2025-03-27-14-44-00-462_202504/Screenrecorder-2025-03-27-14-44-00-462.ts
+#EXTINF:10.0,
+https://archive.org/download/screenrecorder-2025-03-27-14-44-00-462_202504/Screenrecorder-2025-03-27-14-44-00-462.ts
+#EXTINF:10.0,
+https://archive.org/download/screenrecorder-2025-03-27-14-44-00-462_202504/Screenrecorder-2025-03-27-14-44-00-462.ts
+
+#EXT-X-ENDLIST
